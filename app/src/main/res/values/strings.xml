@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">PostTrainingHW1</string>
+    <string name="Load">Load</string>
+    <string name="Add">Add student</string>
+    <string name="Find">Find Student</string>
+    <string name="Delete">Delete Student</string>
+    <string name="Update">Update</string>
+</resources>
